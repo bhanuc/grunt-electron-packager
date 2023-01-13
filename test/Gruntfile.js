@@ -30,7 +30,7 @@ module.exports = function (grunt) {
           name            : 'nameBuild',
           ignore          : 'bower.json',
           // set specific version of electron, If it isn't using the electron's version on your deps.
-          electronVersion: '2.0.8',
+          electronVersion: '22.0.2',
           asar      : true,
           overwrite : true
         }

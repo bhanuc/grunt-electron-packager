@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test-module",
   "version": "1.0.0",
   "description": "",
   "main": "Gruntfile.js",
@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^2.0.8",
-    "electron-packager": "^12.1.1",
-    "grunt": ">=1.0.3"
+    "electron": "^22.0.2",
+    "electron-packager": "^17.1.1",
+    "grunt": ">=1.5.3"
   }
 }
